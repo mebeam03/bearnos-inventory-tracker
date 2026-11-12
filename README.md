@@ -1,6 +1,6 @@
 # Bearno's Inventory Tracker
 
-A Python programming portfolio project based on a restaurant inventory scenario at Bearno's Pizza (Okolona / Preston Highway, Louisville). The goal is to make manual counts and delivery records easier to maintain **without** connecting to a point-of-sale system.
+Project based on a restaurant inventory scenario at Bearno's Pizza (Okolona / Preston Highway, Louisville). The goal is to make manual counts and delivery records easier to maintains.
 
 ## How to Run
 
@@ -35,13 +35,7 @@ A **physical count replaces** the previous balance. A **delivery adds** to the b
 
 The starter catalog is informed by the four-page printed Bearno's menu provided for this project. Relevant menu sections include **Appetizers, Salads, Pasta, Italian Sandwiches, Specialty Pizzas, Build Your Own Pizza, Desserts, and Beverages**. The application organizes *physical ingredients*, not finished menu items. For example, chicken wings are counted once rather than separately for every wing flavor.
 
-- **Anchovies** are under **Pizza Toppings** (listed as a topping on menu page 3).
-- **Beer cheese** is under **Sauces & Dips** even though it is served with pretzel sticks.
-- The menu lists **Honey Mustard**, **Light Italian**, **Creamy Italian**, **Italian**, **French**, **Ranch**, **Fat Free Ranch**, **Thousand Island**, **Bleu Cheese**, and **Red Wine Vinaigrette** (page 2). Light Italian also has the store nickname *Golden Italian* in this catalog.
-- **Salad mix** and **sandwich lettuce** are kept separate.
-- Beverage items include separate 2-liter, 20-ounce, and fountain syrup records; beer brands are not invented.
-
-The printed menu describes what customers can order, **not actual storeroom counts or packaging**. Starter quantities, reorder minimums, and some package assumptions are **illustrative sample data** for this college project. They are not official Bearno's operating records. All **98 catalog entries** have example pack sizes, including pallets for 2-liter sodas and wrapped packs for 20-oz bottles. These are assumptions, not verified supplier quantities. There are **98 catalog entries, 95 active**; unverified items are inactive until enabled. Edit these values in **Catalog**.
+All **98 catalog entries** have example pack sizes, including pallets for 2-liter sodas and wrapped packs for 20-oz bottles. These are assumptions, not verified supplier quantities. There are **98 catalog entries, 95 active**; unverified items are inactive until enabled. Edit these values in **Catalog**.
 
 ## Counting example
 
@@ -82,4 +76,3 @@ python3 -m unittest discover -s tests -v
 ```
 
 The 15 tests cover category assignments, all ingredient packaging, red/amber/green thresholds, package math, count replacement, delivery addition, history records, item editing, validation, and safe upgrades.
-
