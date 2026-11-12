@@ -1,0 +1,99 @@
+name,category,unit_label,package_label,units_per_package,min_units,starting_units,allow_partial,active,notes
+Shredded mozzarella,Pizza Toppings,bag,box,4,12,18,1,1,4 bags per box; 5 lb per bag
+Mozzarella slices,Italian Sandwiches & Sides,pack,case,8,3,8,1,1,Illustrative delivery packaging; verify locally
+Shredded cheddar,Pizza Toppings,bag,box,4,4,9,1,1,Illustrative delivery packaging; verify locally
+Cheddar slices,Italian Sandwiches & Sides,pack,case,8,3,7,1,1,Illustrative delivery packaging; verify locally
+Parmesan cheese,Kitchen Staples,container,case,4,2,5,1,1,Illustrative delivery packaging; verify locally
+Ricotta cheese,Pasta,tub,case,4,2,4,1,1,Illustrative delivery packaging; verify locally
+Beer cheese,Sauces & Dips,tub,case,4,3,6,1,1,Pretzel dipping sauce; grouped with sauces; Illustrative delivery packaging; verify locally
+Margarine,Kitchen Staples,tub,case,4,2,6,1,1,Illustrative delivery packaging; verify locally
+Cream cheese icing,Desserts,container,case,4,2,5,1,1,Illustrative delivery packaging; verify locally
+Pepperoni,Pizza Toppings,bag,box,1,2,5,1,1,10 lb per bag is an estimate
+Italian sausage,Pizza Toppings,bag,box,2,6,8,1,1,2 bags per box; 5 lb per bag
+Link sausage,Pizza Toppings,pack,case,6,3,7,1,1,Illustrative delivery packaging; verify locally
+Ham,Pizza Toppings,pack,case,6,3,7,1,1,Illustrative delivery packaging; verify locally
+Bacon bits,Pizza Toppings,bag,box,4,2,5,1,1,Illustrative delivery packaging; verify locally
+Salami,Pizza Toppings,pack,case,6,2,6,1,1,Illustrative delivery packaging; verify locally
+Hamburger,Pizza Toppings,pack,case,6,3,7,1,1,Illustrative delivery packaging; verify locally
+Fajita chicken,Pizza Toppings,bag,case,4,3,7,1,1,Illustrative delivery packaging; verify locally
+Anchovies,Pizza Toppings,can,case,6,2,1,1,1,Pizza topping on the printed menu; Illustrative delivery packaging; verify locally
+Meatballs,Appetizers,bag,case,4,3,8,1,1,Illustrative delivery packaging; verify locally
+Chicken tenders,Appetizers,bag,case,4,3,7,1,1,Illustrative delivery packaging; verify locally
+Chicken wings,Appetizers,bag,case,4,7,13,1,1,Illustrative delivery packaging; verify locally
+Steak patties,Italian Sandwiches & Sides,pack,case,6,2,5,1,1,Illustrative delivery packaging; verify locally
+White onion,Pizza Toppings,bag,case,4,2,6,1,1,Illustrative delivery packaging; verify locally
+Red onion,Pizza Toppings,bag,case,4,2,5,1,1,Illustrative delivery packaging; verify locally
+Green pepper,Pizza Toppings,bag,case,4,2,7,1,1,Illustrative delivery packaging; verify locally
+Mushrooms,Pizza Toppings,container,case,4,2,6,1,1,Illustrative delivery packaging; verify locally
+Green olives,Pizza Toppings,jar,case,6,2,5,1,1,Illustrative delivery packaging; verify locally
+Black olives,Pizza Toppings,can,case,6,2,6,1,1,Illustrative delivery packaging; verify locally
+Banana peppers,Pizza Toppings,jar,case,6,2,5,1,1,Illustrative delivery packaging; verify locally
+Pepperoncini,Pizza Toppings,jar,case,6,1,3,1,1,Illustrative delivery packaging; verify locally
+Jalapeños,Pizza Toppings,jar,case,6,1,3,1,1,Illustrative delivery packaging; verify locally
+Pineapple,Pizza Toppings,can,case,6,2,5,1,1,Illustrative delivery packaging; verify locally
+Tomatoes,Pizza Toppings,case,pallet,8,1,3,1,1,Illustrative delivery packaging; verify locally
+Salad mix,Salads & Dressings,bag,case,4,6,4,1,1,Bag weight estimated at 10 lb; editable; Illustrative delivery packaging; verify locally
+Cucumbers,Salads & Dressings,case,pallet,8,2,4,1,1,Illustrative delivery packaging; verify locally
+Croutons,Salads & Dressings,bag,case,4,2,5,1,1,Illustrative delivery packaging; verify locally
+Sandwich lettuce,Italian Sandwiches & Sides,head,case,12,3,8,0,1,Illustrative delivery packaging; verify locally
+Pickle spears,Italian Sandwiches & Sides,container,case,4,2,4,1,1,Illustrative delivery packaging; verify locally
+Pizza sauce,Sauces & Dips,can,bucket,2,8,15,1,1,Prepared bucket is modeled as 2 cans (illustrative conversion)
+Marinara sauce,Sauces & Dips,can,case,6,3,7,1,1,Illustrative delivery packaging; verify locally
+BBQ sauce,Sauces & Dips,bottle,case,24,3,4,1,1,Illustrative delivery packaging; verify locally
+Buffalo sauce,Sauces & Dips,bottle,case,24,3,7,1,1,Illustrative delivery packaging; verify locally
+Ranch,Salads & Dressings,container,case,4,6,4,1,1,Illustrative delivery packaging; verify locally
+Blue cheese dressing,Salads & Dressings,container,case,4,2,3,1,1,Illustrative delivery packaging; verify locally
+Honey mustard,Salads & Dressings,container,case,4,2,4,1,1,Illustrative delivery packaging; verify locally
+Light Italian (Golden Italian),Salads & Dressings,container,case,4,2,5,1,1,Light Italian on printed menu; called Golden Italian in store; Illustrative delivery packaging; verify locally
+Creamy Italian,Salads & Dressings,container,case,4,2,5,1,1,Illustrative delivery packaging; verify locally
+Red wine vinaigrette,Salads & Dressings,container,case,4,2,4,1,1,Illustrative delivery packaging; verify locally
+Mayonnaise,Sauces & Dips,container,case,4,2,6,1,1,Illustrative delivery packaging; verify locally
+French dressing,Salads & Dressings,container,case,4,1,3,1,1,Printed menu dressing; store selection can be changed in Catalog; Illustrative delivery packaging; verify locally
+Fat-free ranch,Salads & Dressings,container,case,4,1,2,1,1,Printed menu dressing; store selection can be changed in Catalog; Illustrative delivery packaging; verify locally
+Thousand Island,Salads & Dressings,container,case,4,1,2,1,1,Printed menu dressing; store selection can be changed in Catalog; Illustrative delivery packaging; verify locally
+Italian dressing,Salads & Dressings,container,case,4,1,3,1,1,Printed menu dressing; store selection can be changed in Catalog; Illustrative delivery packaging; verify locally
+Oregano,Kitchen Staples,container,case,4,1,3,1,1,Illustrative delivery packaging; verify locally
+Basil,Kitchen Staples,container,case,4,1,3,1,1,Illustrative delivery packaging; verify locally
+Garlic salt,Kitchen Staples,container,case,4,1,4,1,1,Illustrative delivery packaging; verify locally
+Cinnamon sugar,Desserts,container,case,4,1,4,1,1,Illustrative delivery packaging; verify locally
+Poppy seeds,Kitchen Staples,bag,case,4,1,3,1,1,Illustrative delivery packaging; verify locally
+Sesame seeds,Kitchen Staples,bag,case,4,1,3,1,1,Illustrative delivery packaging; verify locally
+Red pepper flakes,Kitchen Staples,container,case,4,1,4,1,1,Illustrative delivery packaging; verify locally
+Flour,Pizza Dough & Crusts,bag,case,4,5,10,1,1,Illustrative delivery packaging; verify locally
+High-gluten flour,Pizza Dough & Crusts,bag,case,4,6,12,1,1,Illustrative delivery packaging; verify locally
+Yeast,Pizza Dough & Crusts,pack,case,6,3,8,1,1,Illustrative delivery packaging; verify locally
+Sugar,Pizza Dough & Crusts,bag,case,4,2,6,1,1,Illustrative delivery packaging; verify locally
+Salt,Pizza Dough & Crusts,bag,case,4,2,5,1,1,Illustrative delivery packaging; verify locally
+Spaghetti,Pasta,box,case,12,3,4,1,1,Illustrative delivery packaging; verify locally
+Penne,Pasta,box,case,12,3,4,1,1,Illustrative delivery packaging; verify locally
+Lasagna noodles,Pasta,box,case,12,2,5,1,1,Illustrative delivery packaging; verify locally
+Buns,Italian Sandwiches & Sides,pack,case,6,3,8,1,1,Illustrative delivery packaging; verify locally
+Pretzel sticks,Appetizers,bag,case,4,3,7,1,1,Illustrative delivery packaging; verify locally
+French fries,Italian Sandwiches & Sides,bag,case,4,4,5,1,1,Illustrative delivery packaging; verify locally
+Lay's potato chips,Italian Sandwiches & Sides,bag,case,30,12,36,1,1,Illustrative delivery packaging; verify locally
+Chocolate chip cookies,Desserts,pack,case,6,3,8,1,1,Illustrative delivery packaging; verify locally
+Large brownies,Desserts,tray,case,4,2,4,0,1,Illustrative delivery packaging; verify locally
+Cauliflower crust,Pizza Dough & Crusts,crust,case,12,5,12,0,1,Illustrative delivery packaging; verify locally
+Gluten-free crust,Pizza Dough & Crusts,crust,case,12,5,11,0,1,Illustrative delivery packaging; verify locally
+Coke 2L,2-Liter Sodas,bottle,pallet,48,24,30,0,1,Pallet quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Diet Coke 2L,2-Liter Sodas,bottle,pallet,48,12,36,0,1,Pallet quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Coke Zero 2L,2-Liter Sodas,bottle,pallet,48,24,72,0,1,Pallet quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Sprite 2L,2-Liter Sodas,bottle,pallet,48,24,48,0,1,Pallet quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Cherry Coke 2L,2-Liter Sodas,bottle,pallet,48,12,36,0,1,Pallet quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Root Beer 2L,2-Liter Sodas,bottle,pallet,48,12,10,0,1,Pallet quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Coke 20oz,20-oz Sodas,bottle,wrapped pack,24,24,84,0,1,Wrapped pack quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Diet Coke 20oz,20-oz Sodas,bottle,wrapped pack,24,12,36,0,1,Wrapped pack quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Coke Zero 20oz,20-oz Sodas,bottle,wrapped pack,24,24,84,0,1,Wrapped pack quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Sprite 20oz,20-oz Sodas,bottle,wrapped pack,24,24,48,0,1,Wrapped pack quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Root Beer 20oz,20-oz Sodas,bottle,wrapped pack,24,12,36,0,1,Wrapped pack quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Mello Yello 20oz,20-oz Sodas,bottle,wrapped pack,24,12,36,0,1,Wrapped pack quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Mr. Pibb 20oz,20-oz Sodas,bottle,wrapped pack,24,12,36,0,1,Wrapped pack quantity not configured; count bottles; Illustrative delivery packaging; verify locally
+Coke syrup,Fountain Drinks,box,delivery case,4,2,4,1,1,Fountain syrup box; partial box counts are approximate; Illustrative delivery packaging; verify locally
+Diet Coke syrup,Fountain Drinks,box,delivery case,4,1,3,1,1,Fountain syrup box; partial box counts are approximate; Illustrative delivery packaging; verify locally
+Sprite syrup,Fountain Drinks,box,delivery case,4,1,3,1,1,Fountain syrup box; partial box counts are approximate; Illustrative delivery packaging; verify locally
+Root Beer syrup,Fountain Drinks,box,delivery case,4,1,2,1,1,Fountain syrup box; partial box counts are approximate; Illustrative delivery packaging; verify locally
+CO2 tank,Fountain Drinks,tank,rack,2,1,3,0,1,Illustrative delivery packaging; verify locally
+Bottled water,Other Beverages,bottle,wrapped pack,24,0,0,0,0,Verify stocked selection; Illustrative delivery packaging; verify locally
+Iced tea,Other Beverages,container,case,4,0,0,1,0,Verify stocked selection; Illustrative delivery packaging; verify locally
+Spicy blue cheese dip,Sauces & Dips,container,case,4,1,3,1,1,Dipping sauce mentioned with chicken tenderloins; Illustrative delivery packaging; verify locally
+Derby pie,Desserts,slice,box,8,0,0,0,0,Dessert on printed menu; confirm local stock before activation; Illustrative delivery packaging; verify locally
