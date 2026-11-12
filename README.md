@@ -2,18 +2,22 @@
 
 A Python programming portfolio project based on a restaurant inventory scenario at Bearno's Pizza (Okolona / Preston Highway, Louisville). The goal is to make manual counts and delivery records easier to maintain **without** connecting to a point-of-sale system.
 
-## Run on a Mac
+## How to Run
 
-1. Unzip the folder into `Desktop/Portfolio Projects`.
-2. In Terminal, run:
+1. Download this repository as a ZIP file and extract it.
+2. Open Terminal and navigate to the extracted project folder.
+3. Install the required packages:
 
-```bash
-cd "$HOME/Desktop/Portfolio Projects/Bearnos_Inventory_Tracker"
-python3 -m pip install -r requirements.txt
-python3 -m streamlit run app.py
-```
+   python3 -m pip install -r requirements.txt
 
-3. The app opens in your browser (usually `http://localhost:8501`). To stop it, press `Control + C` in Terminal.
+4. Start the application:
+
+   python3 -m streamlit run app.py
+
+The application will open in your browser, usually at
+http://localhost:8501.
+
+Press Control + C in Terminal to stop the application.
 
 ## What the program does
 
@@ -70,9 +74,6 @@ SQLite creates `data/inventory.db` when the app launches. This file stores your 
 
 The minimum and all packaging sizes can be edited in **Catalog**. These are simple operational signals, not predicted sales or forecasts. In **Count Inventory**, ticking **Counted** immediately turns that ingredient row green; pressing **Save Inventory Count** writes only checked rows to SQLite.
 
-## Keeping saved counts when upgrading
-
-If moving from Version 1, 2, or 3, copy only `data/inventory.db` into this folder **before starting Version 4**. The program preserves saved counts and deliveries, and fills in missing packaging configurations. For a few untouched sample items, it also adjusts illustrative stock to show realistic amber states. If you want a completely clean sample dataset, leave `inventory.db` out and let the app create a new one.
 
 ## Tests
 
@@ -82,6 +83,3 @@ python3 -m unittest discover -s tests -v
 
 The 15 tests cover category assignments, all ingredient packaging, red/amber/green thresholds, package math, count replacement, delivery addition, history records, item editing, validation, and safe upgrades.
 
-## Scope and limitations
-
-This is a small **single-user local college project**. It does not forecast demand, subtract sales automatically, place purchase orders, or connect to Heartland POS. The shown stock is the **last saved physical count plus logged deliveries**, not necessarily the quantity currently in the kitchen. Public hosting would require user-isolated storage rather than one shared local SQLite file.
