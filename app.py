@@ -1,4 +1,4 @@
-"""Bearno's Inventory Tracker — a small Python and SQLite college project.
+"""Bearno's Inventory Tracker
 
 Run with: python3 -m streamlit run app.py
 Physical counts replace balances; deliveries add to balances.
@@ -31,8 +31,7 @@ st.set_page_config(
 )
 init_database(DB, CATALOG)
 
-# The official menu uses deep red, forest green, gold, and white. The sidebar
-# borrows those colors without copying the menu art or an official logo.
+# styling from original website
 st.markdown("""
 <style>
 :root {--red:#A5192D; --forest:#075536; --gold:#D7AB3E;
